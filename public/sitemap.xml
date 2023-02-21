@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhoutongxue.eth.link/about/</loc>
+    <loc>https://zhoutongxue.xyz/about/</loc>
     <lastmod>2023-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoutongxue.eth.link/tags/</loc>
+    <loc>https://zhoutongxue.xyz/tags/</loc>
   </url><url>
-    <loc>https://zhoutongxue.eth.link/categories/</loc>
+    <loc>https://zhoutongxue.xyz/categories/</loc>
   </url><url>
-    <loc>https://zhoutongxue.eth.link/</loc>
+    <loc>https://zhoutongxue.xyz/</loc>
   </url><url>
-    <loc>https://zhoutongxue.eth.link/posts/</loc>
+    <loc>https://zhoutongxue.xyz/posts/</loc>
   </url>
 </urlset>

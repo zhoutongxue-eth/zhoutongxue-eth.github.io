@@ -1,4 +1,4 @@
-baseURL = "https://zhoutongxue.eth.link"
+baseURL = "https://zhoutongxue.xyz"
 title   = "区块链周同学主页"
 defaultContentLanguage = "zh-cn"
 languageCode = "zh-cn"
@@ -162,7 +162,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "discord"
-    url  = "https://discord.gg/sWWcTvUuwr"
+    url  = "https://discord.gg/Zpxrh9gFQf"
 
   [[params.social]]
     name = "youtube"
