@@ -55,9 +55,9 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "欢迎来到区块链周同学主页，这里深度探讨区块链相关知识，共同学习进步，一起探索未来"
-  keywords = "blockchain"
-  images = ["ztx-logo-simple-removebg.png"]
+  description = "这里深度探讨区块链技术和Web3项目，目标是让每个人都看懂区块链。欢迎加入Discord社区，共同学习进步，一起探索未来"
+  keywords = "blockchain,btc,bitcoin,web3,zhoutongxue"
+  images = ["android-chrome-512x512.png"]
 
   # Home subtitle of the index page.
   #
@@ -155,7 +155,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "/ztx-logo-simple-removebg.png"
+    path     = "/android-chrome-512x512.png"
     alt      = "Portrait"
     maxWidth = "100px"
 
