@@ -4,6 +4,14 @@
 
 ## hugo
 
+### 写文章
+
+```shell
+hugo new posts/test.md
+... # write post
+hugo undraft content/posts/*.md
+```
+
 ### 本地启动服务
 
 ```shell
