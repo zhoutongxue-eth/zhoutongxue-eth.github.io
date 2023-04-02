@@ -2,15 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhoutongxue.xyz/about/</loc>
-    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+    <loc>https://zhoutongxue.xyz/tags/uniswap/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhoutongxue.xyz/posts/2023/04/uniswap-v2-%E7%99%BD%E7%9A%AE%E4%B9%A6%E8%AF%A6%E7%BB%86%E8%A7%A3%E8%AF%BB/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
   </url><url>
     <loc>https://zhoutongxue.xyz/tags/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
   </url><url>
     <loc>https://zhoutongxue.xyz/categories/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
   </url><url>
     <loc>https://zhoutongxue.xyz/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
   </url><url>
     <loc>https://zhoutongxue.xyz/posts/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhoutongxue.xyz/categories/%E9%A1%B9%E7%9B%AE%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB/</loc>
+    <lastmod>2023-04-02T15:26:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhoutongxue.xyz/posts/2023/03/uniswap%E6%98%AF%E4%BB%80%E4%B9%88%E8%87%AA%E5%8A%A8%E5%81%9A%E5%B8%82%E5%95%86amm%E8%AF%A6%E7%BB%86%E8%A7%A3%E8%AF%BB/</loc>
+    <lastmod>2023-03-26T13:44:22+08:00</lastmod>
+  </url><url>
+    <loc>https://zhoutongxue.xyz/about/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
   </url>
 </urlset>
